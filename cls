@@ -1,0 +1,20 @@
+[33mcommit d97d75293c96fde1b927536116335c8ebad0c280[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 20de955 174a359
+Author: Md Jahedur Rahman <jahed0003@gmail.com>
+Date:   Thu Jan 20 21:10:42 2022 +0200
+
+    Merge pull request #1 from anisul-Islam/master
+    
+    added new div at the end of slider
+
+[33mcommit 174a359e7fac3f62ed710e52234de42ef4159c71[m
+Author: anisul-islam <anisul2010s@yahoo.co.uk>
+Date:   Thu Jan 20 21:00:52 2022 +0200
+
+    added new div at the end of slider
+
+[33mcommit 20de9555e89947aa5cccd3a0d9449139a7ba9a92[m
+Author: jahedurrahman125 <jahed0003@gmail.com>
+Date:   Sat Sep 25 12:03:52 2021 +0300
+
+    example slider
