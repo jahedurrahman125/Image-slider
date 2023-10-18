@@ -22,8 +22,10 @@ html {
     font-size: 10rem;
     font-weight: 900;
     letter-spacing: 0.35rem;
-    color: #fff;
-    text-shadow: .2rem .3rem .3rem #000;
+    background-image: linear-gradient(to left, #7FEBFF, #b38989);
+    background-clip: text;
+    -webkit-background-clip: text;  
+    color: transparent;       
 }
 
 .image-icon i {
