@@ -9,7 +9,7 @@ html {
 }
 
 .section-content {
-    width: 100%;
+    width: 90%;
     height: 100vh;
     background-color: #333;
     display: flex;
