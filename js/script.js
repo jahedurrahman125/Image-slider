@@ -1,4 +1,4 @@
-/* */
+/* this is javaScript file */
 const icons = document.querySelectorAll('.image-icon i');
 
 let i = 1;
