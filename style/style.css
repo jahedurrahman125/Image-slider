@@ -37,3 +37,9 @@ html {
 .image-icon i.slide {
     transform: translate(-50%, -50%)scale(1);
 }
+
+.content {
+    margin-top: 30px;
+    color: #22a6b3;
+    font-size: 14px;
+}
