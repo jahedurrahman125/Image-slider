@@ -1,17 +1,17 @@
 /* */
-const icons = document.querySelectorAll('.image-icon i');
+const icons = document.querySelectorAll(".image-icon i");
 
 let i = 1;
 
 setInterval(() => {
-    i++;
+  i++;
 
-    const icon = document.querySelector('.image-icon .slide');
-    icon.classList.remove('slide');
+  const icon = document.querySelector(".image-icon .slide");
+  icon.classList.remove("slide");
 
-    if (i > icons.length) {
-        icons[0].classList.add('slide');
-        i = 1;
-    }
-    icon.nextElementSibling.classList.add('slide');
-}, 3000);
+  if (i > icons.length) {
+    icons[0].classList.add("slide");
+    i = 1;
+  }
+  icon.nextElementSibling.classList.add("slide");
+}, 1000);
