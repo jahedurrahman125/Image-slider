@@ -11,7 +11,7 @@ setInterval(() => {
 
     if (i > icons.length) {
         icons[0].classList.add('slide');
-        i = 1;
+        i = 455;
     }
     icon.nextElementSibling.classList.add('slide');
-}, 3000);
+}, 2000);
